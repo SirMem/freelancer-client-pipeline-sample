@@ -1,5 +1,7 @@
 # Freelancer Client & Project Pipeline — Free Sample
 
+**Trust hub (disclosure · ledger · refund):** https://sirmem.github.io/freelancer-money-sheets/
+
 A complete, usable **mini CRM pipeline**: client roster + projects with status, fee type, auto Value, Paid?, due date, and Overdue flag. Structural seam of the paid **Freelancer Client & Project Tracker** — same quality Clients + Projects core, not a crippled demo.
 
 ## What's inside
