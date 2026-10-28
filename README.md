@@ -26,6 +26,22 @@ Raw `.xlsx`:
 
 https://raw.githubusercontent.com/SirMem/freelancer-client-pipeline-sample/main/Freelancer-Client-Pipeline-Sample.xlsx
 
+## Primary CTA — this sample feeds Client only
+
+Pipeline of leads/clients (status + hours), not cash chase → **[Client Tracker $5](https://keithjenn.gumroad.com/l/freelancer-client-tracker)**
+
+Stay free if the mini CRM subset is enough. This sample does **not** hard-upsell Invoice, Expense, or Bundle.
+
+## Which tracker? (situation map)
+
+- Late pay / messy aging receivables → Invoice Tracker $6 (not Expense or Client)
+- Tax season / Schedule C categories + mileage mess → Expense Tracker $5
+- Pipeline of leads/clients (status + hours), not cash chase → Client Tracker $5
+- Already decided you need all three money ops → Bundle $12 (one checkout)
+- Free Aging sample feeds Invoice only — stay free if the subset is enough
+- Free Expense Category / Client Pipeline samples feed Expense / Client only
+- ADHD 2027 planner & RE listing prompts are different ICPs — free-only here (not money-tracker upsells)
+
 ## Gap questions (optional — only if one fits)
 
 If one fits after you try the sample, open a GitHub issue with **one word**:
