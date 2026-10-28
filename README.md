@@ -22,9 +22,8 @@ It does **not** include Settings (default rate / currency), Time Log (hours roll
 
 ## Download
 
-Raw `.xlsx`:
-
-https://raw.githubusercontent.com/SirMem/freelancer-client-pipeline-sample/main/Freelancer-Client-Pipeline-Sample.xlsx
+- **Gumroad $0+ (email receipt):** https://keithjenn.gumroad.com/l/freelancer-client-pipeline-sample
+- Raw `.xlsx`: https://raw.githubusercontent.com/SirMem/freelancer-client-pipeline-sample/main/Freelancer-Client-Pipeline-Sample.xlsx
 
 ## Primary CTA — this sample feeds Client only
 
